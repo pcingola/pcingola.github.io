@@ -1,4 +1,3 @@
-pcingola.github.io
-==================
+# pcingola.github.io
 
-Web pages
+Personal homepage, served at https://pcingola.github.io. A single static `index.html`.
